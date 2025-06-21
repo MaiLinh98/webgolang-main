@@ -1,2 +1,0 @@
-# webgolang-main
-webgolang-main
